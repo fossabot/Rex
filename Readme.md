@@ -1,4 +1,6 @@
 # Rex
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fm8rex%2FRex.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fm8rex%2FRex?ref=badge_shield)
+
 
 ## Goal
 
@@ -105,3 +107,7 @@ All files placed in the 'documents' folder are examined to find documents that c
 - Generate tex code voor pdf?
 - Create 'TexCommand' which passes it's options to tex ?
 - LICENSE
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fm8rex%2FRex.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fm8rex%2FRex?ref=badge_large)
